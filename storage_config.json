@@ -1,0 +1,14 @@
+{
+  "name": "High Performance Storage launchd with API",
+  "storageSize": 10,
+  "hardware": {
+    "walltime": 6
+  },
+  "firstAlert": 60,
+  "secondAlert": 90,
+  "autoextend": false,
+  "autoextendPercent": 80,
+  "region": {
+    "id": "aBcDe"
+  }
+}

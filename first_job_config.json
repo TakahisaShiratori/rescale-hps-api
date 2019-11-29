@@ -1,0 +1,23 @@
+{
+  "name": "High Performance Storage first job",
+  "jobanalyses": [
+    {
+      "inputFiles": [
+        {
+          "id": "inputFiles ID will be substituted here"
+        }
+      ],
+      "analysis": {
+        "code": "user_included",
+        "version": "0"
+      },
+      "command": "Command will be substituted here",
+      "hardware": {
+        "coreType": "emerald",
+        "coresPerSlot": 1,
+        "slots": 1
+      }
+    }
+  ],
+  "isLowPriority": false
+}
